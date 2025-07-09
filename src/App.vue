@@ -2,8 +2,7 @@
 </script>
 
 <template>
-
-    
+hi
 </template>
 
 <style scoped>
